@@ -17,7 +17,6 @@ git
     - date_time varchar
 - Clone the Repository
 ```
-git clone https://github.com/Tanay-10/Visualizer.git
 ```
 - ``` cd Visualizer ```
 -  Run the ``` registration.py ```
