@@ -17,6 +17,7 @@ git
     - date_time varchar
 - Clone the Repository
 ```
+https://github.com/jha2607/jha2607.git
 ```
 - ``` cd Visualizer ```
 -  Run the ``` registration.py ```
